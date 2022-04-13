@@ -32,18 +32,18 @@ With whatever time remains, use it in analyzing patterns or any information that
 <h4>Week 1 collecting:</h4>
 <ol>
   <li>
-    1) Collect as many estatments as possible
+    Collect as many estatments as possible
   </li>
   <li>
-    2) Use OCR to read said estatments
+    Use OCR to read said estatments
   </li>
   <li>
-    3) Locate descriptors on json file
+    Locate descriptors on json file
   </li>
   <li>
-    4) Turn into a data frame containing (expense, description)
+    Turn into a data frame containing (expense, description)
   </li>
   <li>
-    5) Either merge all files into one df with a time column, or export all dfs per month-year
+    Either merge all files into one df with a time column, or export all dfs per month-year
   </li>
 </ol>
