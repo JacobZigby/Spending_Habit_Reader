@@ -30,7 +30,7 @@ With whatever time remains, use it in analyzing patterns or any information that
 
 <h3>Procedure/tasks:</h3>
 <h4>Week 1 collecting:</h4>
-<ul>
+<ol>
   <li>
     1) Collect as many estatments as possible
   </li>
@@ -46,4 +46,4 @@ With whatever time remains, use it in analyzing patterns or any information that
   <li>
     5) Either merge all files into one df with a time column, or export all dfs per month-year
   </li>
-</ul>
+</ol>
