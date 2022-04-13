@@ -14,7 +14,15 @@ Official start date: <b>April 19</b><br>
 Official end date: <b>May 22</b><br>
 Time available: <b>4 weeks and 5 days</b>
 <h4>4 week plan:</h4>
-Week 1: collect data by using Tesseract OCR (if collection of data is too difficult we will use some of the 5 day buffer to just use the CSV files from the banks should be doable in a day or two)
-Week 2-3: cleaning and setting up categories for all titles (if cleaning is done quickly, add new data from other people to project)
-Week 3-4: create a time series model (if model is done quickly create models from others data and compare habits between all habits)
-With whatever time remains, use it in analyzing patterns or any information that can be taken and formulate it into a document (create a report) and deployment!!!!
+<ul>
+  <li>
+    <b>Week 1</b>: 
+    collect data by using Tesseract OCR (if collection of data is too difficult we will use some of the 5 day buffer to just use the CSV files from the banks should be doable in a day or two)
+  </li>
+  <li>
+    <b>Week 2-3</b>: cleaning and setting up categories for all titles (if cleaning is done quickly, add new data from other people to project)
+  </li>
+  <li>
+    <b>Week 3-4</b>: create a time series model (if model is done quickly create models from others data and compare habits between all habits)
+  </li>
+    With whatever time remains, use it in analyzing patterns or any information that can be taken and formulate it into a document (create a report) and deployment!!!!
