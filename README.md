@@ -25,4 +25,5 @@ Time available: <b>4 weeks and 5 days</b>
   <li>
     <b>Week 3-4</b>: create a time series model (if model is done quickly create models from others data and compare habits between all habits)
   </li>
-    With whatever time remains, use it in analyzing patterns or any information that can be taken and formulate it into a document (create a report) and deployment!!!!
+</ul>
+With whatever time remains, use it in analyzing patterns or any information that can be taken and formulate it into a document (create a report) and deployment!!!!<br>
