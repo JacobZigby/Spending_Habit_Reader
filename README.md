@@ -28,7 +28,7 @@ Time available: <b>4 weeks and 5 days</b>
 </ul>
 With whatever time remains, use it in analyzing patterns or any information that can be taken and formulate it into a document (create a report) and deployment!!!!<br>
 
-<h3>Procedure/tasks:</h3>
+<h2>Procedure/tasks:</h2>
 <h4>Week 1 collecting:</h4>
 <ol>
   <li>
@@ -45,5 +45,21 @@ With whatever time remains, use it in analyzing patterns or any information that
   </li>
   <li>
     Either merge all files into one df with a time column, or export all dfs per month-year
+  </li>
+</ol>
+
+<h4>Week 2-3 cleaning and processing:</h4>
+I'm expecting to take up a lot of time here<br>
+<ol>
+  <li>Create categories: essential bills, essentials, recurring bills, luxuries, Misc, to_remove, (add any as needed) the to_remove will be for the credit card payments, but I may not remove but rather change the value to only contain the quantity that a person is paying interest on
+  </li>
+  <li>
+    Add a new column to deaths that will hold the percentage of an individual expense of the total spent that month: example month expense-1000, single expense-10 percentage will be 10/1000*100 = 1%
+  </li>
+  <li>
+    3) Look at each description and create a dictionary to map certain values to it's required category, spend a few minutes to see if a pattern can be found to make this process easier
+  </li>
+  <li>
+    4) Map all values
   </li>
 </ol>
