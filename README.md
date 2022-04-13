@@ -27,3 +27,23 @@ Time available: <b>4 weeks and 5 days</b>
   </li>
 </ul>
 With whatever time remains, use it in analyzing patterns or any information that can be taken and formulate it into a document (create a report) and deployment!!!!<br>
+
+<h3>Procedure/tasks:</h3>
+<h4>Week 1 collecting:</h4>
+<ul>
+  <li>
+    1) Collect as many estatments as possible
+  </li>
+  <li>
+    2) Use OCR to read said estatments
+  </li>
+  <li>
+    3) Locate descriptors on json file
+  </li>
+  <li>
+    4) Turn into a data frame containing (expense, description)
+  </li>
+  <li>
+    5) Either merge all files into one df with a time column, or export all dfs per month-year
+  </li>
+</ul>
