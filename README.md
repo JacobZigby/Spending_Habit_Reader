@@ -57,9 +57,34 @@ I'm expecting to take up a lot of time here<br>
     Add a new column to deaths that will hold the percentage of an individual expense of the total spent that month: example month expense-1000, single expense-10 percentage will be 10/1000*100 = 1%
   </li>
   <li>
-    3) Look at each description and create a dictionary to map certain values to it's required category, spend a few minutes to see if a pattern can be found to make this process easier
+    Look at each description and create a dictionary to map certain values to it's required category, spend a few minutes to see if a pattern can be found to make this process easier
   </li>
   <li>
-    4) Map all values
+    Map all values
   </li>
 </ol>
+
+<h4>Week 3-4 create models:</h4>
+<ol>
+  <li>
+    Create simple time series model for each category
+  </li>
+  <li>
+    Visualize each series
+  </li>
+  <li>
+    Analyze models, look for noise, patterns
+  </li>
+  <li>
+    Optimize and repeat step 1-4 until satisfied
+  </li>
+</ol>
+
+<h3>Results:</h3>
+To be added<br>
+
+<h3>Final thoughts:</h3>
+To be added<br>
+
+<h3>Changes or wishful additions:</h3>
+adding customizations for individuals<br>
