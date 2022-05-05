@@ -1,3 +1,4 @@
 check for changes in normalilty, for a change in behaviour
 allow users to give either the pdfs or csv's as a way to format their personal modules
 pre-run catagory models based on people with similar spending habits or incomes, anything they have in similar
+Add a fillter to reading nbc debit statments (to remove those damn dotted lines)
