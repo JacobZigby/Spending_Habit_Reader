@@ -2,3 +2,12 @@ check for changes in normalilty, for a change in behaviour
 allow users to give either the pdfs or csv's as a way to format their personal modules
 pre-run catagory models based on people with similar spending habits or incomes, anything they have in similar
 Add a fillter to reading nbc debit statments (to remove those damn dotted lines)
+Add the ability to choose which bank type the estatment comes from
+
+To add as soon as possible
+create catagories based on things contained in description
+add removal of row entries that don't contain a proper date
+add an exception for the reading files, when the extra line anomoly shows up
+add the ability to read more than one page at a time
+make it work on mastercard
+fill in missing values by hand (add a function to do this too)
