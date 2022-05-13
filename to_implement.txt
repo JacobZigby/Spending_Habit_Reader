@@ -13,3 +13,7 @@ add an exception for the reading files, when the extra line anomoly shows up
 add the ability to read more than one page at a time
 make it work on mastercard
 fill in missing values by hand (add a function to do this too)
+
+Change ocr reading method for nbc so that when the "frais" descrption is read it will skip the bottom and go directly to the next segment if it's still on the same page Example (2018-04-01, AND 2019-09-01, 2021-05-01)
+
+Check out 2020-12-01 for 2 page implamentation
