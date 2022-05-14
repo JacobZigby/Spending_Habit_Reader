@@ -3,6 +3,7 @@ allow users to give either the pdfs or csv's as a way to format their personal m
 pre-run catagory models based on people with similar spending habits or incomes, anything they have in similar
 Add a fillter to reading nbc debit statments (to remove those damn dotted lines)
 Add the ability to choose which bank type the estatment comes from
+make a new model that can predict what type of purchase was made based on description
 
 Create a bank csv converter, that way users can just get theri dat themselves
 
