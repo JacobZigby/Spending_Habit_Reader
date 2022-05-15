@@ -4,6 +4,7 @@ pre-run catagory models based on people with similar spending habits or incomes,
 Add a fillter to reading nbc debit statments (to remove those damn dotted lines)
 Add the ability to choose which bank type the estatment comes from
 make a new model that can predict what type of purchase was made based on description
+Add the ability to read the first line in the ocr and make an exception so the first entree doesn't need a charge value
 
 Create a bank csv converter, that way users can just get theri dat themselves
 
