@@ -5,8 +5,10 @@ Add a fillter to reading nbc debit statments (to remove those damn dotted lines)
 Add the ability to choose which bank type the estatment comes from
 make a new model that can predict what type of purchase was made based on description
 Add the ability to read the first line in the ocr and make an exception so the first entree doesn't need a charge value
+Implement a simple rnn model
+Seperate the reading of files into segments so one step can be done at a time
 
-Create a bank csv converter, that way users can just get theri dat themselves
+Create a bank csv converter, that way users can just get their data themselves
 
 To add as soon as possible
 create catagories based on things contained in description
