@@ -3,10 +3,11 @@ allow users to give either the pdfs or csv's as a way to format their personal m
 pre-run catagory models based on people with similar spending habits or incomes, anything they have in similar
 Add a fillter to reading nbc debit statments (to remove those damn dotted lines)
 Add the ability to choose which bank type the estatment comes from
-make a new model that can predict what type of purchase was made based on description
+make a new model that can predict what type of purchase was made based on description (some nlp with the hand made targets to be used for the training)
 Add the ability to read the first line in the ocr and make an exception so the first entree doesn't need a charge value
 Implement a simple rnn model
 Seperate the reading of files into segments so one step can be done at a time
+Find out why I lost a months worth of data after cleaning
 
 Create a bank csv converter, that way users can just get their data themselves
 
