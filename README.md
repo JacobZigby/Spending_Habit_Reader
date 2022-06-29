@@ -81,10 +81,14 @@ I'm expecting to take up a lot of time here<br>
 </ol>
 
 <h3>Results:</h3>
-To be added<br>
+Either due to a lack of data or inproper data processing, my model shows very lack lustering results<br>
 
 <h3>Final thoughts:</h3>
-To be added<br>
+Although I had a great deal of fun extrating data using OCR I am saddened by the fact that my model did not produce the results I had hoped to achieve, but with this in mind, I think I would like to give this another attempt in a few more months to allow for a slightly bigger pool of data and to work on implementing more sources of data so my training can be as closesly related to someones actual spending habits<br>
 
 <h3>Changes or wishful additions:</h3>
-adding customizations for individuals<br>
+Adding customizations for individuals<br>
+Adding extractions of statments as csv files for users<br>
+Adding different banks sources for statments<br>
+Creating a user inteface
+Allowing user input for personal data evaluations
